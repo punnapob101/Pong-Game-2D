@@ -1,4 +1,6 @@
-# 🏓 Pong Game �
+# 🏓 Pong Game 
+**[👉 Play the Game Here! 👈](https://pong-game-2d-atbk29m21-punnapob101s-projects.vercel.app/)**
+
 
 Welcome to the **Pong Game** with a special local Thai country theme! 🇹🇭✨ 
 This is a fun, classic, browser-based Pong game built with simple web technologies that brings you a unique look and playful feel. 🎮💖
